@@ -1,12 +1,12 @@
 # Funstat / Фанстат — Telegram-бот для анализа публичной активности в Telegram
 
 <p align="center">
-  <a href="https://funstat.one">
+  <a href="https://funstat.me">
     <img src="https://img.shields.io/badge/Открыть%20бота%20в%20Telegram-@richardvpn__robot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Открыть Funstat в Telegram">
   </a>
 </p>
 
-Открыть бота: **https://funstat.one**
+Открыть бота: **https://funstat.me**
 
 **Funstat**, также известный как **Фанстат**, — это Telegram-бот для анализа открытой активности пользователей, групп и чатов в Telegram. Инструмент помогает быстрее находить публичные упоминания, изучать историю активности, смотреть пересечения по группам и получать структурированную информацию без ручного поиска по десяткам чатов и каналов.
 
@@ -27,12 +27,12 @@
 Ссылки на Telegram-ботов со временем могут меняться: появляются копии, похожие названия и сторонние страницы. Поэтому важно использовать только актуальную и проверенную ссылку.
 
 <p align="center">
-  <a href="https://funstat.one">
+  <a href="https://funstat.me">
     <img src="https://img.shields.io/badge/Перейти%20к%20Funstat%20боту-Запустить%20в%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Перейти к Funstat боту">
   </a>
 </p>
 
-Также можно открыть бота вручную через Telegram: **https://funstat.one**
+Также можно открыть бота вручную через Telegram: **https://funstat.me**
 
 ---
 
@@ -95,7 +95,7 @@ Funstat помогает быстрее находить открытые сле
 
 ## Как пользоваться Funstat
 
-1. Откройте Telegram-бота **https://funstat.one**.
+1. Откройте Telegram-бота **https://funstat.me**.
 2. Запустите бота кнопкой **Start**.
 3. Введите нужный Telegram-идентификатор, username, ссылку или другой доступный параметр для поиска.
 4. Изучите полученные результаты.
@@ -130,7 +130,7 @@ Funstat предназначен для работы с открытыми да�
 ## Запустить Funstat
 
 <p align="center">
-  <a href="https://funstat.one">
+  <a href="https://funstat.me">
     <img src="https://img.shields.io/badge/Funstat%20бот-Открыть%20в%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Funstat Telegram Bot">
   </a>
 </p>
